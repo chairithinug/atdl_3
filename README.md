@@ -1,3 +1,4 @@
+This is a fork from https://github.com/DropEdge/DropEdge and is a part of ATDL at KU.
  DropEdge: Towards Deep Graph Convolutional Networks on Node Classification
 ====
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dropedge-towards-deep-graph-convolutional/node-classification-on-cora-full-supervised)](https://paperswithcode.com/sota/node-classification-on-cora-full-supervised?p=dropedge-towards-deep-graph-convolutional)
@@ -7,7 +8,7 @@
 
 
 
-This is a fork from https://github.com/DropEdge/DropEdge and is a part of ATDL at KU.
+
 
 ## Requirements
 
