@@ -5,8 +5,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dropedge-towards-deep-graph-convolutional/node-classification-on-pubmed-full-supervised)](https://paperswithcode.com/sota/node-classification-on-pubmed-full-supervised?p=dropedge-towards-deep-graph-convolutional)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dropedge-towards-deep-graph-convolutional/node-classification-on-reddit)](https://paperswithcode.com/sota/node-classification-on-reddit?p=dropedge-towards-deep-graph-convolutional)
 
-This is a Pytorch implementation of paper: DropEdge: Towards Deep Graph Convolutional Networks on Node Classification
 
+
+This is a fork from https://github.com/DropEdge/DropEdge and is a part of ATDL at KU.
 
 ## Requirements
 
