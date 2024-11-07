@@ -1,5 +1,5 @@
 This is a fork from https://github.com/DropEdge/DropEdge and is a part of ATDL at KU.
-Note that the main changes are in train_all.py and efficient.ipynb in src folder.
+Note that the main changes are in train_all_models.py and efficient.ipynb in src folder.
 
 The figures can be found inside src folder as well as the csv files with values of flops and macs.
 
