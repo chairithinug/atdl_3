@@ -1,0 +1,13 @@
+model,dataset,lr,weight_decay,sampling_percent,dropout,normalization,withloop,withbn,nbaseblocklayer
+JKNet,Pubmed,0.005,0.0001,0.5,0.8,AugNormAdj,true,true,62
+GCN,Pubmed,0.01,0.001,0.3,0.5,BingGeNormAdj,true,true,2
+GCN_Nodrop,Pubmed,0.01,0.001,1,0.5,BingGeNormAdj,true,true,2
+JKNet_Nodrop,Pubmed,0.005,0.0001,1,0.8,AugNormAdj,true,true,62
+JKNet,Cora,0.008,0.0005,0.2,0.8,AugNormAdj,false,false,14
+GCN,Cora,0.01,0.005,0.7,0.8,FirstOrderGCN,false,false,2
+GCN_Nodrop,Cora,0.01,0.005,1,0.8,FirstOrderGCN,false,false,2
+JKNet_Nodrop,Cora,0.008,0.0005,1,0.8,AugNormAdj,false,false,14
+JKNet,Citeseer,0.004,0.00005,0.6,0.3,AugNormAdj,true,false,6
+GCN,Citeseer,0.009,0.001,0.05,0.8,BingGeNormAdj,true,true,2
+GCN_Nodrop,Citeseer,0.009,0.001,1,0.8,BingGeNormAdj,true,true,2
+JKNet_Nodrop,Citeseer,0.004,0.00005,1,0.3,AugNormAdj,true,false,6
